@@ -12,7 +12,7 @@ The provided scripts have been tested in MATLAB R2020a.
 
 See annimations of the catastrophes on the [YouTube channel](https://www.youtube.com/channel/UCDZO7Vn4HynLKHkcSv7UWfA).
 
-For a computation of cusps and hyperbolic umbilic bifurcations in a conjugate locus of a two- and three-dimensional ellipsoid, see the repository [Christian-Offen/ConjugateLocus](Christian-Offen/ConjugateLocus) or the corresponding [paper](https://doi.org/10.1016/j.ifacol.2021.11.099).
+For a computation of cusps and hyperbolic umbilic bifurcations in a conjugate locus of a two- and three-dimensional ellipsoid, see the repository [https://github.com/Christian-Offen/ConjugateLocus](Christian-Offen/ConjugateLocus) or the corresponding [paper](https://doi.org/10.1016/j.ifacol.2021.11.099).
 For more information on the detection of elementary catastrophes as bifurcations in boundeary value problems, see [my dissertation](http://hdl.handle.net/10179/16155).
 
 
