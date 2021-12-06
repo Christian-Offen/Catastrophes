@@ -1,5 +1,9 @@
 %% Cusp
 
+% @author  Christian Offen
+% @version 1.0
+
+
 mu2 = linspace(-1,1);
 x = linspace(-1,1);
 

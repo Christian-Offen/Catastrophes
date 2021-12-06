@@ -1,5 +1,9 @@
 % Illustration fold bifurcation
 
+% @author  Christian Offen
+% @version 1.0
+
+
 t=linspace(-1,1);
 t2=linspace(-1/2,1/2);
 
